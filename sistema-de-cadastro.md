@@ -5,6 +5,6 @@
 Para rodar este projeto você precisa deste codigo:
 
 ```
-npm intall react
+nood apps js
 
 ```
